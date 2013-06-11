@@ -1,4 +1,6 @@
-J3z.github.io
-=============
+My personnal page !! :)
+======================
 
-My personal jekyll blog.
+My personal jekyll page.
+
+I'll present myself on it and post some stuff some times.
