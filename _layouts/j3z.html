@@ -13,21 +13,22 @@
     <body>
 		<div class="container-fluid">
 			<div class="row-fluid">
-				<div class="span10">
+				<div class="span9">
 				{{ content }}
 				</div>
-				<header class="span2">
-					<h1 class="title"><a href="/">{{ site.name }}</a></h1>
+				<header class="span3">
+					<h1 class="title main-color"><a href="/" class="main-color">{{ site.name }}</a></h1>
               		<div class="contact">
                 		<p>
-                  			{{ site.author }}<br />
-                  			{{ site.subline }}<br />
+                  			<span class="author">{{ site.author }}</span><br />
                 		</p>
+						<br/>
+						<br/>
                 		<p>
                   			<a href="mailto:{{ site.email }}"><i class="icon-envelope icon-4x"></i></a><br />
-                  			<a href="http://github.com/j3z/"><i class="icon-github-sign icon-4x"></i></a><br />
-                  			<a href="http://twitter.com/___jez/"><i class="icon-twitter-sign icon-4x"></i></a><br />
-                  			<a href="https://plus.google.com/115854308115046215216/about"><i class="icon-google-plus-sign icon-4x"></i></a><br />
+                  			<a href="http://github.com/{{ site.github }}/"><i class="icon-github-sign icon-4x"></i></a><br />
+                  			<a href="http://twitter.com/{{ site.twitter }}/"><i class="icon-twitter-sign icon-4x"></i></a><br />
+                  			<a href="https://plus.google.com/{{ site.googleplus }}/about"><i class="icon-google-plus-sign icon-4x"></i></a><br />
                 		</p>
               		</div>
             	</div>
@@ -35,6 +36,6 @@
 			</div>
 		</div>
 		<script src="http://code.jquery.com/jquery.js"></script>
-	    <script src="/js/bootstrap/bootstrap-responsive.min.js"></script>
+	    <script src="/js/bootstrap/bootstrap.min.js"></script>
     </body>
 </html>
