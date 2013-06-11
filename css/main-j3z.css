@@ -34,6 +34,12 @@ a {
 	font-weight:400;
 }
 
+@font-face {
+    font-family: NotCourierSans;
+    src: url('../font/NotCourierSans.otf');
+    font-weight:400;
+}
+
 .main-color {
 	color: #5384D4;
 }
@@ -74,7 +80,7 @@ ul.posts li p a:hover{
 /*****************************************************************************/
 
 .title a{
-	font-family: arial;
+	font-family: NotCourierSans;
 	font-size: 66px;
 	font-weight: bold;
 }
