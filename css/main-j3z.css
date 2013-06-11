@@ -25,7 +25,11 @@ h1, h2, h3, h4, h5, h6 {
 h1 { margin-bottom: 1em; }
 p { margin: 1em 0; }
 
-a         { color: #00a; }
+a { 
+	color: #00a;
+	text-decoration: none;
+}
+
 a:hover   { color: #000; }
 a:visited { color: #a0a; }
 
@@ -107,13 +111,12 @@ ul.posts span {
   overflow: hidden;
 }
 
-.site .footer .contact {
+.site .contact {
   float: left;
-  margin-right: 3em;
 }
 
-.site .footer .contact a {
-  color: #8085C1;
+.contact i{
+	color: #ccc;
 }
 
 .site .footer .rss {
