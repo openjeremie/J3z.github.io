@@ -17,10 +17,10 @@
       <header>
       <h1>{{ site.name }}</h1>
       <p>{{ site.author }}</p>
-        <a href="mailto:{{ site.email }}"><i class="icon-envelope icon-4x"></i></a>
-        <a href="http://github.com/{{ site.github }}/"><i class="icon-github-sign icon-4x"></i></a>
-        <a href="http://twitter.com/{{ site.twitter }}/"><i class="icon-twitter-sign icon-4x"></i></a>
-        <a href="https://plus.google.com/{{ site.googleplus }}/about"><i class="icon-google-plus-sign icon-4x"></i></a>
+        <p class="view"><a href="mailto:{{ site.email }}"><i class="icon-envelope icon-4x"></i></a></p>
+        <p class="view"><a href="http://github.com/{{ site.github }}/"><i class="icon-github-sign icon-4x"></i></a></p>
+        <p class="view"><a href="http://twitter.com/{{ site.twitter }}/"><i class="icon-twitter-sign icon-4x"></i></a></p>
+        <p class="view"><a href="https://plus.google.com/{{ site.googleplus }}/about"><i class="icon-google-plus-sign icon-4x"></i></a></p>
       </header>
       <section>
       {{ content }}
@@ -31,6 +31,7 @@
       </footer>
     </div>
     <script src="javascripts/scale.fix.js"></script>
+    <script src="js/bootstrap/bootstrap.min.js"></script>
               <script type="text/javascript">
             var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
             document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
