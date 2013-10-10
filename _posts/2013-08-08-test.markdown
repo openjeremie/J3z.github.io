@@ -1,8 +1,0 @@
----
-layout: j3z
-title:  "test"
-date:   2013-08-21 10:35:41
-categories: test 
----
-
-Test.

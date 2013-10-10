@@ -8,8 +8,14 @@ title: Mainpage
     <main class="container">
     	<div class="row-fluid">
     		<section class="content">
-    		  <h1>Ipsum List</h1>
-          <div class="sub-title">A list of interesting lorem ipsums I found on the web</div>
+    		  <h1>Jérémie Gaven</h1>
+              <div class="sub-title">Share data <3 and though.</div>
+              <!--<nav>
+                <ul>
+                    <li><a href="/projects/">Projects</a></li>
+                    <li><a href="/about/">About</a></li>
+                </ul>
+                </nav>-->
     		</section>
     		<ul class="entries">
     		{% for post in paginator.posts %}
@@ -17,7 +23,7 @@ title: Mainpage
     		    <a href="{{ post.url }}">
     		        <h3>{{ post.title }}</h3>
                 <time>{{ post.date | date: "%d %B %Y" }}</time>
-                <div>{{ post.content |truncatehtml | truncatewords: 30 }}</div>
+                <div>{{ post.excerpt |truncatehtml | truncatewords: 30 }}</div>
     		    </a>
     		  </li>
     		{% endfor %}
@@ -49,13 +55,13 @@ title: Mainpage
           </li>
 
           {% for count in (2..paginator.total_pages) %}
-          <li class="page">
+          <!--<li class="page">
             {% if count == paginator.page %}
             <span class="current-page">{{count}}</span>
             {% else %}
             <a href="/page{{count}}">{{count}}</a>
             {% endif %}
-          </li>
+            </li>-->
           {% endfor %}
         </ul>
 
