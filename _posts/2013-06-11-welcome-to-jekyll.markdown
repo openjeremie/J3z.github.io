@@ -1,5 +1,5 @@
 ---
-layout: j3z
+layout: post_page
 title:  "Welcome to Jekyll!"
 date:   2013-06-11 10:35:41
 categories: jekyll update
