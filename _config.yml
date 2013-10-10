@@ -1,9 +1,7 @@
-name: <3.
-pygments: true
+# visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings
 
-author : Jérémie Gaven
-email : jeremie@gaven.me
-subline	: \_o<~
-github : J3z
-twitter : ___jez
-googleplus : 115854308115046215216
+#auto: true # automatically update your jekyll
+#server: true # runs a local server
+paginate: 10 # pagination basted on number of posts
+exclude: ["Gemfile", "Gemfile.lock", "README.md", 'sass', 'watch.sh', 'style.scss'] # files to exclude
+

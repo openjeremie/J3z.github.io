@@ -4,6 +4,18 @@
 /*
 /*****************************************************************************/
 
+@font-face {
+    font-family: Cabin-Regular;
+	src: url('../font/Cabin-Regular.otf');
+	font-weight:400;
+}
+
+@font-face {
+    font-family: NotCourierSans;
+    src: url('../font/NotCourierSans.otf');
+    font-weight:400;
+}
+
 /* Global Reset */
 * {
   margin: 0;
@@ -25,16 +37,12 @@ a {
 	text-decoration: none;
 }
 
-@font-face {
-    font-family: Cabin-Regular;
-	src: url('../font/Cabin-Regular.otf');
-	font-weight:400;
-}
-
-@font-face {
-    font-family: NotCourierSans;
-    src: url('../font/NotCourierSans.otf');
-    font-weight:400;
+p {
+	font-family: Cabin-Regular;
+	font-size: 12px;
+	color: #323232;
+	font-size: 12px;
+	text-shadow: 0px 2px 3px #111;
 }
 
 .main-color {
@@ -111,7 +119,7 @@ header{
 
 .head-post {
     float: right;
-    margin-top: 10px;
+    margin-top: 20px;
     margin-right: 20px;
 }
 
@@ -128,7 +136,6 @@ header{
 
 #post {
     padding-top: 20px;
-    padding-left: 30px;
     padding-right: 30px;
     margin-top: 20px;
     margin-left: 30px;

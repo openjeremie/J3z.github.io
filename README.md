@@ -1,5 +1,10 @@
-My personnal page !! :)
-======================
+HTML5 Muffin chocchip steps
+============================
 
-My personal jekyll page.
-About hack life and donuts.
+Run bundle install
+
+	bundle install
+
+Run jekyll
+
+	jekyll
