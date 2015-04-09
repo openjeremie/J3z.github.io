@@ -1,21 +1,21 @@
 /* TEAM */
                             
-Your title: Your name.                        
-Site: email, link to a contact form, etc.                         
-Twitter: your Twitter username.                        
-Location: City, Country.
+Your title: Jérémie Gaven                        
+Site: jeremie@gaven.me                        
+Twitter: @___Jez                        
+Location: France
 
 
 /* THANKS */
 
 HTML5 Muffin
 This is a Frappuccino Blog
-Name: name or url
+Name: jeremie.gaven.me
 
                             
 /* SITE */
                           
-Last update: YYYY/MM/DD                    
+Last update: 2015/04/07                    
 Standards: HTML5, CSS3,..                   
 Components: Modernizr, jQuery, etc.                            
-Software: Software used for the development
+Software: Vim, Jekyll, Git
