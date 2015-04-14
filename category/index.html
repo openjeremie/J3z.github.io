@@ -18,9 +18,7 @@ title: category page
                     <h3>{{ category[0] }}</h3>
                     <nav class="posts-{{ category[0] }}">
                 {% for post in category[1] %}
-                <div>        
-                    <a class="post-link" href="{{ post.url | prepend: site.baseurl }}" >{{ post.title }}</a>
-                </div>
+                    <a class="post-link" href="{{ post.url | prepend: site.baseurl }}" >{{ post.title }}</a> | 
                 {% endfor %}
                     </nav>
     	        </section>
