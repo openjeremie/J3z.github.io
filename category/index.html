@@ -1,0 +1,33 @@
+---
+layout: default
+title: category page
+---
+<div class="content">
+    <main class="container">
+        <div class="row-fluid">
+    		<article class="home-icon">
+				<a href="/">
+					<i class="icon-home"></i> 
+				</a>
+			</article>
+            <br/>
+    		<article class="post">
+                <h2 class="content">Blog category</h2>
+        {% for category in site.categories %}
+                <section class="content section-{{ category[0] }}">
+                    <h3>{{ category[0] }}</h3>
+                    <nav class="posts-{{ category[0] }}">
+                {% for post in category[1] %}
+                <div>        
+                    <a class="post-link" href="{{ post.url | prepend: site.baseurl }}" >{{ post.title }}</a>
+                </div>
+                {% endfor %}
+                    </nav>
+    	        </section>
+                <hr/>
+        {% endfor %}
+    		</article>
+        </div>
+    </main>
+</div>
+
