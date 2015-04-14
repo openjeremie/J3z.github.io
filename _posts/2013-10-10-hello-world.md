@@ -2,7 +2,7 @@
 layout: post_page
 title:  "Hello world"
 date:   2013-10-10 10:35:41
-categories: jekyll update blog
+categories: blog
 excerpt: "Short introduction for this new opening blog ..."
 ---
 
