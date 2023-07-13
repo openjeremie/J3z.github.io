@@ -15,7 +15,7 @@ Name: jeremie.gaven.me
                             
 /* SITE */
                           
-Last update: 2015/04/07                    
+Last update: 2023/07/14
 Standards: HTML5, CSS3,..                   
 Components: Modernizr, jQuery, etc.                            
 Software: Vim, Jekyll, Git

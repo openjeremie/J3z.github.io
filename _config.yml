@@ -2,5 +2,55 @@
 
 #auto: true # automatically update your jekyll
 #server: true # runs a local server
-paginate: 10 # pagination basted on number of posts
-exclude: ["Gemfile", "Gemfile.lock", "README.md", 'sass', 'watch.sh', 'style.scss'] # files to exclude
+# paginate: 10 # pagination basted on number of posts
+# exclude: ["Gemfile", "Gemfile.lock", "README.md", 'sass', 'watch.sh', 'style.scss'] # files to exclude
+# site settings
+
+title: Jérémie Gaven
+description: Personal Website of Jérémie Gaven
+taglong: developer consultant php dart javascript devops linux hosting
+tagshort: developer code consulting
+url: https://jeremie.gaven.me
+baseurl: ""
+permalink: pretty
+repo: https://github.com/username/J3z.github.io
+
+# author settings
+
+author:
+  name: Jérémie Gaven
+  email: jeremie@gaven.me
+photo: /assets/photo.jpg
+
+# build settings
+
+exclude:
+  - LICENSE
+  - README.md
+
+plugins:
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate-v2
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+whitelist:
+  - jekyll-sitemap
+
+sass:
+  sass_dir: _sass
+  sourcemap: never
+
+feed:
+  path: atom.xml
+
+autopages:
+  enabled: false
+
+pagination:
+  enabled: true
+  per_page: 1
+  sort_reverse: true
+  permalink: /:num/
+  title: ":title &middot; Page :num"
