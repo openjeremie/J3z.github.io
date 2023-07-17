@@ -1,6 +1,8 @@
 ---
 layout: cv
 title: CV
+lang: en
+ref: cv
 ---
 
 # Curriculum Vitæ
