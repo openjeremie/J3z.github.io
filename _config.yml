@@ -43,7 +43,9 @@ plugins:
   - jekyll-sitemap
   - jekyll-polyglot
   - jekyll-include-cache
+  - jekyll-sass-converter
   - jemoji
+  - bootstrap
 
 whitelist:
   - jekyll-sitemap
@@ -51,6 +53,10 @@ whitelist:
 sass:
   sass_dir: _sass
   sourcemap: never
+  style: compressed
+  load_paths:
+    - "_sass"
+    - "vendor/bundle/ruby/*/gems/"
 
 feed:
   path: atom.xml
