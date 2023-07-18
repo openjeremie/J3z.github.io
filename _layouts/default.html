@@ -1,9 +1,10 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="{{ site.active_lang }}">
 
 {% include head.html %}
 
 <body>
+  {% include lang-switcher.html %}
 
   {% if page.title == "Home" %}{% include particles-home.html %}{% endif %}
   {% if page.title == "404" %}{% include particles-404.html %}{% endif %}

@@ -1,15 +1,16 @@
 ---
 layout: cv
 title: CV
-lang: en
+lang: fr
 ref: cv
+permalink: /cv/
 ---
 
 # Curriculum Vitæ
 
 {% include contact.html %}
 
-## Section
+## FR
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 

@@ -15,6 +15,8 @@ url: https://jeremie.gaven.me
 baseurl: ""
 permalink: pretty
 repo: https://github.com/username/J3z.github.io
+languages: ["en", "fr", "es"]
+default_lang: "en"
 
 # author settings
 
@@ -30,11 +32,18 @@ exclude:
   - README.md
 
 plugins:
+  - sass
+  - nokogiri
+  - webrick
+  - jekyll
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate-v2
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-polyglot
+  - jekyll-include-cache
+  - jemoji
 
 whitelist:
   - jekyll-sitemap
@@ -55,3 +64,7 @@ pagination:
   sort_reverse: true
   permalink: /:num/
   title: ":title &middot; Page :num"
+
+# polyglot comptability
+
+parallel_localization: false
