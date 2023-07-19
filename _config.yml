@@ -56,7 +56,7 @@ sass:
   style: compressed
   load_paths:
     - "_sass"
-    - "vendor/bundle/ruby/*/gems/"
+    - "vendor/bundle/ruby/*/gems/bootstrap-*/assets/stylesheets"
 
 feed:
   path: atom.xml
