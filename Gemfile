@@ -14,4 +14,4 @@ gem "jekyll-include-cache"
 gem "jekyll-sass-converter"
 gem "jemoji"
 gem 'wdm', '>= 0.1.0' if Gem.win_platform?
-gem 'bootstrap', '~> 5.2.3'
+gem 'bootstrap', '~> 5.3.0.alpha3'
