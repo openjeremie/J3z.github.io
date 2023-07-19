@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Acceuil
+permalink: /
 lang: fr
 ---
 
@@ -21,7 +22,3 @@ Of course, i can code from scratch but i do prefer to use framework from very ta
 In my free times, i am also studying HAMradio, sailing, traveling and enjoying good foods.
 
 Please follow my contact page to reach me.
-
-# Blog
-
-{% include archive.html %}
