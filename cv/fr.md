@@ -3,6 +3,7 @@ layout: cv
 title: CV
 lang: fr
 ref: cv
+permalink: /cv/
 ---
 
 # Curriculum Vitæ

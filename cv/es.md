@@ -1,11 +1,11 @@
 ---
 layout: cv
 title: CV
-lang: fr
+lang: es
 ref: cv
 permalink: /cv/
 ---
-
+s
 # Curriculum Vitæ
 
 {% include contact.html %}
