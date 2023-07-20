@@ -21,6 +21,3 @@ In my free times, i am also studying HAMradio, sailing, traveling and enjoying g
 
 Please follow my contact page to reach me.
 
-# Blog
-
-{% include archive.html %}
