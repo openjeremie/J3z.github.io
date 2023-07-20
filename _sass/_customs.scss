@@ -1,0 +1,16 @@
+@media (prefers-color-scheme: dark) {
+    html,
+    html[data-theme="dark"] {
+        .nav-item{
+            --bs-nav-link-color: var(--oc-gray-5);
+            --bs-nav-link-hover-color: var(--oc-gray-1);
+        }
+    }
+  
+    html[data-theme="light"] {
+        .nav-item{
+            --bs-nav-link-color: var(--oc-gray-7);
+            --bs-nav-link-hover-color: var(--oc-gray-9);
+        }
+    }
+  }
