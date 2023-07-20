@@ -15,8 +15,8 @@ url: https://jeremie.gaven.me
 baseurl: ""
 permalink: pretty
 repo: https://github.com/username/J3z.github.io
-languages: ["en", "fr", "es"]
-default_lang: "en"
+languages: [ "fr", "en", "es"]
+default_lang: "fr"
 
 # author settings
 
