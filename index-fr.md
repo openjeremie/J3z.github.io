@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Acceuil
+title: Home
 permalink: /
 lang: fr
 ---
