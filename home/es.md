@@ -7,16 +7,16 @@ lang: es
 
 # Acerca de
 
-Tengo 10 años de experiencia en el desarrollo de software para varios clientes en diferentes campos. Jake de todos los oficios, me gusta ensuciarme las manos y siempre aprendiendo. No me olvido de las buenas prácticas y hacer la entrega va más rápido. La separación de la preocupación es mi mojo y equipos de hacer mi trabajo mucho más agradable.
+Hola, ¡bienvenido a mi sitio web personal!
+
+Soy developper desde hace unos 10 años. Me gustan los proyectos bien estructurados que me permiten a mí y a los equipos con los que trabajo ser eficaces en nuestros objetivos. Me gusta tener un espíritu de "<a href="https://es.wikipedia.org/wiki/Artesan%C3%ADa_de_software" target="_blank">Artesanía de software</a>", aunque el tamaño del proyecto inicial sea "pequeño". Nunca sabes adónde te llevará el proyecto :)
 
 >
 > El buen código no necesita explicaciones ...
 >
 
-La mayoría de las veces hago PHP y bash scripting, pero también he hecho algunos proyectos en Perl y soy productivo en Javascript. Tengo algunos proyectos en Dart también, de esta manera puedo entregar aplicaciones android e ios.
+La mayor parte del tiempo, hago PHP y scripts bash, pero también he trabajado en Perl y soy productivo en Javascript. También tengo algunos proyectos personales en Dart.
 
-Por supuesto, puedo código desde cero, pero yo prefiero utilizar el marco de las personas con mucho talento y iterar sobre ella. Así symfony es mi favorito, Flutter me impresiona mucho y VueJS está siempre en mi lista.
+Por supuesto, puedo codificar desde cero, pero prefiero usar los frameworks de gente con mucho talento e iterar sobre ellos. Como resultado, symfony es mi favorito, Flutter me impresiona mucho y VueJS está siempre en mi lista.
 
-En mis ratos libres, también estudio HAMradio, navego, viajo y disfruto de la buena comida.
-
-Por favor, siga mi página de contacto para llegar a mí.
+En mi tiempo libre, estudio para ser radioaficionado, navego, viajo y disfruto de la buena comida.

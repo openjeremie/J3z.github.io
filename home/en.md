@@ -7,17 +7,18 @@ lang: en
 
 # About
 
-I have 10 years of experiences in software developement for various clients in different fields. Jake of all trades, i like to get my hand dirty and always learning. I don't forgot the good practices and make delivery goes faster. The separate of concern is my mojo and teams make my works much more enjoyable.
+Hello, welcome to my personal website!
+
+I've been a developer for about 10 years. I like well-structured projects that allow me and the teams I work with to be effective on our objectives. I like to have a "<a href="https://en.wikipedia.org/wiki/Software_craftsmanship" target="_blank">software craftman</a>" spirit, even if the size of the initial project is "small". 
+
+You never know where the project will take you. :)
 
 >
 > Good code needs no explanations ...
 >
 
-Most of the times i do PHP and bash scripting, but i also did some projects in Perl and i am productive in Javascript. I have some projects in Dart too, this way i can deliver android and ios apps.
+Most of the time, I do PHP and bash scripts, but I've also worked on Perl and I'm productive in Javascript. I also have a few personal projects in Dart.
 
-Of course, i can code from scratch but i do prefer to use framework from very talented peoples and iterate on it. This way symfony is my favorite, Flutter impress me a lot and VueJS is always on my list.
+Of course, I can code from scratch, but I prefer to use the frameworks of very talented people and iterate on them. As a result, symfony is my favorite, Flutter impresses me a lot and VueJS is always on my list.
 
-In my free times, i am also studying HAMradio, sailing, traveling and enjoying good foods.
-
-Please follow my contact page to reach me.
-
+In my spare time, I'm studying to be a radio amateur, sailing, traveling and enjoying good food.

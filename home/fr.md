@@ -7,18 +7,21 @@ lang: fr
 
 # À propos
 
-10 d'expériences dans le développement logiciel pour différents clients et divers secteurs d'activités. Je suis toujours en train d'apprendre et je n'oublie jamais les bonnes pratiques.
+Bonjour, bienvenue sur mon site perso !
 
-I have 10 years of experiences in software developement for various clients in different fields. Jake of all trades, i like to get my hand dirty and always learning. I don't forgot the good practices and make delivery goes faster. The separate of concern is my mojo and teams make my works much more enjoyable.
+Je suis développeur depuis 10 ans environ. 
+
+J'aime les projets bien structurés qui permettent, à moi et les équipes avec qui je travaille, d'être efficace sur nos objectifs. J'aime aussi avoir un esprit de ''<a href="https://fr.wikipedia.org/wiki/Software_craftsmanship" target="_blank">software craftman</a>'' et ce même si la taille du projet initial est "petit". 
+
+Vous ne savez jamais ou ce projet vous mènera. :)
 
 >
 > Good code needs no explanations ...
 >
 
-Most of the times i do PHP and bash scripting, but i also did some projects in Perl and i am productive in Javascript. I have some projects in Dart too, this way i can deliver android and ios apps.
+La plupart du temps, je fais du PHP et des scripts bash, mais j'ai également travaillé sur avec du Perl et je suis productif en Javascript. J'ai aussi quelques projets personnels en Dart.
 
-Of course, i can code from scratch but i do prefer to use framework from very talented peoples and iterate on it. This way symfony is my favorite, Flutter impress me a lot and VueJS is always on my list.
+Bien sûr, je peux coder à partir de zéro, mais je préfère utiliser les frameworks de personnes très talentueuses et itérer dessus. Ce qui fait que, symfony est mon préféré, Flutter m'impressionne beaucoup et VueJS est toujours sur ma liste.
 
-In my free times, i am also studying HAMradio, sailing, traveling and enjoying good foods.
 
-Please follow my contact page to reach me.
+Pendant mon temps libre, j'étudie pour être radioamateur, je fais de la voile, je voyage et j'apprécie la bonne cuisine.
