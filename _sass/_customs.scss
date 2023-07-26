@@ -14,3 +14,54 @@
         }
     }
   }
+
+@media print {
+    // Default styling only apply for print
+    html,
+    body,
+    page[size="A4"] {
+        padding:0px;
+        margin:0px;
+    }
+    
+    body {
+        -webkit-print-color-adjust: exact !important;
+        zoom: 100%;
+        padding:0px;
+        margin:0px;
+        width: 210mm;
+        height: 297mm;
+        .container {
+            all: unset;
+            .justify-content-center {
+                all: unset;
+                .row {
+                    all: unset;
+                }
+            }
+        }
+
+        header {
+            ul.nav {
+                display: none;
+            }
+        }
+
+        h2 {
+            font-size: x-large;
+        }
+
+        h3 {
+            font-size: large;
+        }
+
+        h4 {
+            font-size: small;
+        }
+
+        h5 {
+            font-size: x-small;
+        }
+    }
+    
+}
