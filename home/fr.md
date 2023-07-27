@@ -11,7 +11,7 @@ Bonjour, bienvenue sur mon site perso !
 
 Je suis développeur depuis 10 ans environ. 
 
-J'aime les projets bien structurés qui permettent, à moi et les équipes avec qui je travaille, d'être efficace sur nos objectifs. J'aime aussi avoir un esprit de ''<a href="https://fr.wikipedia.org/wiki/Software_craftsmanship" target="_blank">software craftman</a>'' et ce même si la taille du projet initial est "petit". 
+J'aime les projets bien structurés qui permettent, à moi et aux équipes avec qui je travaille, d'être efficace sur nos objectifs. J'aime aussi avoir un esprit de ''<a href="https://fr.wikipedia.org/wiki/Software_craftsmanship" target="_blank">software craftman</a>'' et ce même si la taille du projet initial est "petit". 
 
 Vous ne savez jamais ou ce projet vous mènera. :)
 
