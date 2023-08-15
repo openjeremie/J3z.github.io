@@ -46,7 +46,7 @@ E-commerce · MySQL · Magento · Git · GitLab · JavaScript · PHP
 
 #### septembre 2016 - juin 2017, <a href="https://www.openstreetmap.org/search?query=Narbonne%2C%20Occitanie%2C%20France#map=12/43.1495/3.0337&layers=T" target="_blank">Narbonne</a>
 
-J'ai aidé des associations locals ou des individus avec la mise en place d'outils open source qui répondent à leurs besoins. Généralement avec du materiel open-source type raspberry pi et pas mal de scripting fonction des demandes.
+J'ai aidé des associations locales avec la mise en place d'outils open source qui répondaient à leurs besoins. Généralement je proposais du matériel open-source type raspberry pi et des scripts pour du sur mesure en fonction des demandes.
 
 Principaux outils mis en place :
 - [Pasteque](https://pasteque.org/Logiciel?lang=fr) (Point de vente)
