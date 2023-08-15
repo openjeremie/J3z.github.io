@@ -7,11 +7,11 @@ lang: fr
 
 # À propos
 
-Bonjour, bienvenue sur mon site perso !
+Bonjour et bienvenue sur mon site !
 
-Je suis développeur depuis 10 ans environ. 
+Cela fait une dizaine d'années que je suis développeur.
 
-J'aime les projets bien structurés qui permettent, à moi et aux équipes avec qui je travaille, d'être efficace sur nos objectifs. J'aime aussi avoir un esprit ''<a href="https://fr.wikipedia.org/wiki/Software_craftsmanship" target="_blank">software craftman</a>'' et ce même si la taille du projet initial est "petit". 
+J'aime les projets bien structurés qui permettent, à moi ainsi qu'aux équipes avec lesquelles je travaille, d'être efficace dans la réalisation de nos objectifs. J'aime aussi avoir un esprit ''<a href="https://fr.wikipedia.org/wiki/Software_craftsmanship" target="_blank">software craftman</a>'' et ce même si la taille du projet initial est "petit". 
 
 Vous ne savez jamais ou ce projet vous mènera. :)
 
@@ -19,9 +19,9 @@ Vous ne savez jamais ou ce projet vous mènera. :)
 > Good code needs no explanations ...
 >
 
-La plupart du temps, je fais du PHP et des scripts bash, mais j'ai également travaillé avec du Perl et je suis productif en Javascript. J'ai aussi quelques projets personnels en Dart.
+La majorité du temps, je fais des scripts PHP et Bash, mais j'ai également travaillé avec Perl et je suis productif en Javascript. J'ai aussi un projet mobile Dart.
 
-Bien sûr, je peux coder à partir de zéro, mais je préfère utiliser les frameworks de personnes très talentueuses et itérer dessus. Ce qui fait que, symfony est mon préféré, Flutter m'impressionne beaucoup et VueJS est toujours sur ma liste.
+Bien sûr, je peux coder *from scratch*, mais pour ne pas réinventer la roue je préfère utiliser les frameworks reconnues et largement utilisé dans l'industrie. Ce pourquoi, Symfony est mon préféré, Flutter m'impressionne beaucoup et VueJS est toujours sur ma liste.
 
 
-Pendant mon temps libre, j'étudie pour être radioamateur, je fais de la voile, je voyage et j'apprécie la bonne cuisine.
+Durant mon temps libre, j'étudie pour être radioamateur, je pratique la voile, je voyage et j'apprécie la bonne cuisine.
