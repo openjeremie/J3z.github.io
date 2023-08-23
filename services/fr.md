@@ -5,6 +5,8 @@ permalink: /services
 lang: fr
 ---
 
+
+
 # Services
 
 Grâce à mon offre de services j'améliore vos performances.
@@ -39,3 +41,11 @@ Stack technique :
 * Symfony
 * Magento, Wordpress
 * Debian 
+
+# Comment ça se passe ?
+
+Je vous accompagne dès le 1er contact dans la réalisation de votre demande.
+
+Après la 1ere prise de contact, on se rencontre pour faire un état des lieux de vos besoins et de l’existant. Ensuite je vous soumets rapidement une ou plusieurs proposition(s) de travail et un délai de réalisation. Si elle est acceptée, on affine ensemble la planification. Et c’est parti
+
+Si c’est un projet long terme, il faut prévoir une à deux heures par mois pour qu’on puisse échanger et que je puisse vous expliquer où le développement se situe et les étapes à venir. Je pense cela nécessaire car en tant que chef d’entreprise, nous avons besoin de savoir comment avance la construction de nos out
